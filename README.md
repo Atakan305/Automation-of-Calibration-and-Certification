@@ -103,7 +103,7 @@ The script automatically normalizes these values using configurable tolerances s
 
 ---
 
-# Generated Outputs
+## Generated Outputs
 
 The project exports:
 
@@ -118,7 +118,7 @@ The generated outputs are intended to be both machine-readable and easy to inspe
 
 ---
 
-# Typical Use Cases
+## Typical Use Cases
 
 This project is useful for:
 
@@ -132,7 +132,7 @@ This project is useful for:
 
 ---
 
-# Technologies
+## Libraries
 
 Main libraries used:
 
@@ -146,7 +146,7 @@ xlrd
 
 ---
 
-# Installation
+## Installation
 
 ```bash
 pip install pandas numpy matplotlib openpyxl xlrd==2.0.1
@@ -154,7 +154,7 @@ pip install pandas numpy matplotlib openpyxl xlrd==2.0.1
 
 ---
 
-# Running the Script
+## Running the Script
 
 ```bash
 python main.py
@@ -169,7 +169,7 @@ The program will ask for:
 
 ---
 
-# Example Output Structure
+## Example Output Structure
 
 ```text
 output/
@@ -184,7 +184,7 @@ output/
 
 ---
 
-# Notes
+## Notes
 
 The project was built around real workflows rather than synthetic example datasets.
 
@@ -202,6 +202,6 @@ Some certificate formats may still require small adjustments depending on their 
 
 ---
 
-# License
+## License
 
 Open for educational, research, and workflow automation purposes. 
